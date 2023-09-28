@@ -16,7 +16,7 @@ time.sleep(15)
 #buscar os contatos
 
 
-contatos = ["LORENA COSTA"]
+contatos = ["LORENA VIDA COSTA"]
 mensagem ="ola a todas teste de automação"
 
 
